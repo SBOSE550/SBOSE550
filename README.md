@@ -9,13 +9,13 @@
 
 
 
-- 🌱 I’m currently looking for job in **Data Analysis or Buesness Analysis**.
-- 👀 I love SQL, Tablue, Python and telling stories and making predictions with data.
+- 🌱 I’m currently looking for a job in **Data Analysis or Business Analysis**.
+- 👀 I love SQL, Tablue, Python telling stories, and making predictions with data.
    
 ### :feelsgood: I'm Good at
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using Python.
-- Developing dashboards on Tableau .
+- Developing dashboards on Tableau.
 - Data analysis and reporting using Google Sheets and Excel.
 
 ### 📚 Projects
@@ -37,7 +37,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/SBOSE
  
 </p>
 
-you can also email me at **soumyadeepbose550@gmail.com**
+check out my website: https://sbose550.github.io/soumyadeepbose.github.io/
 
 
 
